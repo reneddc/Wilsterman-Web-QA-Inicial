@@ -1,0 +1,6 @@
+projectKey=Wilsterman
+serverUrl=http://localhost:9000
+serverVersion=10.2.0.77647
+dashboardUrl=http://localhost:9000/dashboard?id=Wilsterman
+ceTaskId=AYqqkM2Gt_HXz7ku-O_-
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYqqkM2Gt_HXz7ku-O_-
